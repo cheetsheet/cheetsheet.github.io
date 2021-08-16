@@ -1,0 +1,10 @@
+.main h1{
+    font-family: 'Roboto';
+    font: bold ;
+    font-size: 3em;
+    border-bottom:red 3px solid;
+    border-radius: 1px;
+}
+.main{
+    margin: 2%;
+}
